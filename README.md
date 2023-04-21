@@ -1,2 +1,2 @@
-# dio-desafio-github-repositorio-meu-progresso
-Meu Progresso
+# Meu Progresso -Desafio DIO
+Repositorio criado para o desafio de projeto Git/GitHub.
