@@ -1,2 +1,2 @@
 # Meu Progresso -Desafio DIO
-Repositorio criado para o desafio de projeto Git/GitHub.
+Repositório criado para o desafio de projeto Git/GitHub.
