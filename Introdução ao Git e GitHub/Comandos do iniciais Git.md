@@ -1,4 +1,4 @@
-# Comandos do iniciais Git:joystick:
+# Comandos iniciais para o Git:joystick:
 
 _Relação de comandos iniciais e uteis para utilizar no Git_
 
