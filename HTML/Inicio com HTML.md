@@ -91,7 +91,7 @@ funciona com as "filhas" <li>
 Lista não ordenada com marcadores
 
 <ul> não ordenadas
-    
+
 </ul>
 
 
@@ -110,4 +110,4 @@ Para abrir o site em uma outra aba utilizamos o atributo "target"
 
 
 
-Para manter o usuário sobre seu site é recomendado deixar o atributo para abrir o link na mesma aba, e apenas quando for direcionado a informações de terceiros para abrir em uma nova aba
+Para manter o usuário sobre seu site é recomendado deixar o atributo para abrir o link na mesma aba, e apenas quando for direcionado a informações de terceiros para abrir em uma nova aba.
