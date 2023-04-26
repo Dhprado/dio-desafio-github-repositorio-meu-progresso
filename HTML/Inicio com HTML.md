@@ -11,10 +11,9 @@ exemplo de tag's
 <title>
     Tag de titulo 
 </title>
+<strong> texto em negrito 
 
-<strong>texto em negrito </strong>
-
-<i> texto em italico </i>
+ <i> texto em italico 
 
 
 
@@ -102,11 +101,11 @@ Lista não ordenada com marcadores
 
 "href=" para digitar o link de acesso
 
-<a href= "meu site.com"> Meu site </a> 
+<a href= "meu site.com"> Meu site 
 
 Para abrir o site em uma outra aba utilizamos o atributo "target"
 
-<a href= "meu site.com" target= "_blank"> Meu site </a> 
+<a href= "meu site.com" target= "_blank"> Meu site 
 
 
 
